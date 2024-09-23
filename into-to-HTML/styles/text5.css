@@ -1,0 +1,17 @@
+.video-title{
+    font-family: montserrat;
+    font-size: 70px;
+    font-weight:bold;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  .video-description{
+    font-family: montserrat;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 10;
+  }
+  .touchless-link{
+    text-decoration: underline;
+    cursor: pointer;
+  }
